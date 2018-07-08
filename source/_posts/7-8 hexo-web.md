@@ -1,0 +1,36 @@
+---
+title: 第五天-使用阿里云域名绑定个人博客
+thumbnail: "https://www.webdevelopersnotes.com/wp-content/uploads/the-world-wide-web.png"
+---
+
+# 使用阿里云域名绑定个人博客
+
+### 说明
+上个月使用了Github Pages+Hexo搭建了个人博客，但是使用github域名不方便记忆。这次使用阿里云购买域名，并绑定自己的博客，这样就可以挑选自己喜欢的域名，方便记忆还不需要后端语言相关知识，十分方便。
+
+### 购买域名
+登录[阿里云](https://wanwang.aliyun.com/domain?spm=5176.10695662.1996646101.searchclickresult.59854234wFVAVF)购买域名，但是一般拼音早就被人注册。最好还是加些后缀，并且如果没有硬性要求，不用选择.com和.cn的价格太贵，.cc或者.top这种首年只要几块钱经济实惠。
+![域名购买](http://lc-thex246k.cn-n1.lcfile.com/c898e45406b5f9c87b4d.png)
+
+![域名购买](http://lc-thex246k.cn-n1.lcfile.com/7fb2a623c2530352e443.png)
+
+购买域名后根据教程，完成域名的实名认证。
+
+### 域名解析
+
+购买域名后，我们登录进入阿里云官网的控制台，在域名列表中可查看自己购买的域名，点击列表中对应的域名所在列的解析，进入解析界面。
+
+![解析界面](http://lc-thex246k.cn-n1.lcfile.com/c8dd9ad4f18b32bfc933.png)
+
+![控制台](http://lc-thex246k.cn-n1.lcfile.com/7d5ec30e0cfaa444c2db.png)
+
+之后进入自己blog的github地址，点击上图上方偏右的Create new file按钮，创建一个文件，文件名为CNAME(注意：没有扩展名)。文件内容为个人域名(注意：没有http://，没有www)，然后选择下方的Commit new file按钮。然后在浏览器端重新输入我们的域名，我们可以看到域名绑定成功。
+
+![github](http://lc-thex246k.cn-n1.lcfile.com/3a6a7c9e1b0d628ad0b5.png)
+
+![CNAME](http://lc-thex246k.cn-n1.lcfile.com/d93c067c6be016696ead.png)
+
+最后别忘了在Blog本地文件source中，也要创建CNAME，不然在下次部署博客后，会发现博客网页的css样式丢失或是404错误。
+
+
+###### Never quit, keep up with it。

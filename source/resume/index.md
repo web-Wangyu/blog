@@ -9,11 +9,10 @@ date: 2018-06-05 21:58:32
  - 1993/08/27
  - 本科/成都东软学院
  - 工作年限：2年
- - 技术博客：https://web-wangyu.github.io/
+ - 技术博客：https://wangyu-web.top
  - Github：https://github.com/web-Wangyu
  - 期望职位：web前端开发
- - 期望薪资：税前月薪6k~8k
- - 期望城市：成都/自贡
+ - 期望城市：成都
 
   ## 联系方式
 - 手机：17711381046
@@ -37,7 +36,7 @@ date: 2018-06-05 21:58:32
 公司项目主要是做社区类app，针对海外所以界面多为英文。
 我自己github上有我个人类似作品，主要是自己学习VUE+Hbulider打包安卓webapp。
 GitHub : https://github.com/web-Wangyu/vue-project
-Blog : https://web-wangyu.github.io/2018/05/31/5-31%20vue-app/
+Blog : https://wangyu-web.top/2018/05/31/5-31%20vue-app/
   
 ### 四川宝弘鑫宇网络科技有限公司【已倒闭】（ 2017年2月 ~ 2017年6月 ）
 
@@ -48,7 +47,7 @@ Blog : https://web-wangyu.github.io/2018/05/31/5-31%20vue-app/
 github：https://github.com/web-Wangyu/baohong_website
 
 #### 活范外卖
-这是使用bootstrap+jq仿照的一款模仿饿了么的外卖项目，在最后完成要测试时甲方跑路，最后不了了之。
+这是使用bootstrap+jq仿照的一款模仿饿了么的外卖项目，在最后完成测试时甲方撤资，最后不了了之。
 
 
   
@@ -62,7 +61,7 @@ github：https://github.com/web-Wangyu/baohong_website
 ## 技能清单
 以下均为我熟练使用的技能
 
-- Web开发：HTML/CSS/JavaScript/ES6
+- Web开发：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJs/Mui/Framework7/ElementUI/Jquery
 - 版本管理、文档和自动化部署工具：Svn/Git/Vue-cil
 - 云后台平台：Leancloud/Bomb
