@@ -20,7 +20,7 @@ window.location.href = "openapp.jdmobile://"
 ### 常用URL Scheme
 
 | 应用名称 | URL Scheme |
-| --------   | -----:   | :----: |
+| --------| :----: |
 | 微博 | weibo:// |
 | QQ | mqq:// |
 | QQ群组 | mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin={QQ群号} |
